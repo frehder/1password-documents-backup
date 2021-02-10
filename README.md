@@ -30,3 +30,13 @@ bash 1password-documents-backup.sh Vaultname.json
 ```
 
 You should now have a `Vaultname.json` file with a list of all documents from your vault and a `/docs` folder next to it with all of your documents in it.
+
+---
+
+## License
+
+MIT License, see LICENSE file.
+
+I do not care what you do with this.
+
+I do not provide any warranty.
